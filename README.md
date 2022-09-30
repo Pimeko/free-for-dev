@@ -1673,6 +1673,7 @@ Table of Contents
   * [Rive](https://rive.app/community/) - Community assets as well as create your own game assets using its free plan.
   * [Poly Pizza](https://poly.pizza/) - Free low poly 3D assets
   * [3Dassets.one](https://www.3dassets.one/) - Over 8,000 free/paid 3D models, and PBR materials for making textures.
+  * [Sketchfab](https://sketchfab.com/) - One of the most popular marketplace with more than 3 million free/paid 3D models
 
 **[⬆ back to top](#table-of-contents)**
 
